@@ -1,0 +1,10 @@
+D:\Diploma\Sem 2\Project Programming Cluster\Week 7\Code\AuthenticationDemo\DatabaseDemo\bin\Debug\DatabaseDemo.dacpac
+D:\Diploma\Sem 2\Project Programming Cluster\Week 7\Code\AuthenticationDemo\DatabaseDemo\bin\Debug\DatabaseDemo.dll
+D:\Diploma\Sem 2\Project Programming Cluster\Week 7\Code\AuthenticationDemo\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+D:\Diploma\Sem 2\Project Programming Cluster\Week 7\Code\AuthenticationDemo\DatabaseDemo\obj\Debug\DatabaseDemo.sqlprojAssemblyReference.cache
+D:\Diploma\Sem 2\Project Programming Cluster\Week 7\Code\AuthenticationDemo\DatabaseDemo\obj\Debug\Model.xml
+D:\Diploma\Sem 2\Project Programming Cluster\Week 7\Code\AuthenticationDemo\DatabaseDemo\obj\Debug\refactor.xml
+D:\Diploma\Sem 2\Project Programming Cluster\Week 7\Code\AuthenticationDemo\DatabaseDemo\obj\Debug\postdeploy.sql
+D:\Diploma\Sem 2\Project Programming Cluster\Week 7\Code\AuthenticationDemo\DatabaseDemo\obj\Debug\predeploy.sql
+D:\Diploma\Sem 2\Project Programming Cluster\Week 7\Code\AuthenticationDemo\DatabaseDemo\obj\Debug\DatabaseDemo.dll
+D:\Diploma\Sem 2\Project Programming Cluster\Week 7\Code\AuthenticationDemo\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
